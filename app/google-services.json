@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592562710793",
+    "firebase_url": "https://sayedmetalthirdtask.firebaseio.com",
+    "project_id": "sayedmetalthirdtask",
+    "storage_bucket": "sayedmetalthirdtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592562710793:android:54671394e299bd1d",
+        "android_client_info": {
+          "package_name": "com.sayedmetalpreparing.afs.sayedmetalthirdtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592562710793-m1davs1a0hctq13g550rpr1mfts82qo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayedmetalpreparing.afs.sayedmetalthirdtask",
+            "certificate_hash": "cb100950a896d61b4997a3b256e87818f2243e02"
+          }
+        },
+        {
+          "client_id": "592562710793-s7k5t0r26r0et85gq21s4aqh0ga5ov4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8i54BjoEHcboAoAf6u8txRFSsAx64zF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592562710793-s7k5t0r26r0et85gq21s4aqh0ga5ov4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
